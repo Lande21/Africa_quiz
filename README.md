@@ -6,3 +6,6 @@ Python program to quiz about African countries.
 + ***Score Tracking:*** The game will keep track of the user's score.
 + ***Feedback:*** After each question, the game will provide feedback on whether the user's answer was correct or incorrect.
 + ***Game End:*** After a certain number of questions, the game will end and display the user's final score.
+
+# Enhancements
+Expand the List: Add more countries and capitals to the countries_and_capitals dictionary.
