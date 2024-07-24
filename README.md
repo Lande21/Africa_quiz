@@ -9,3 +9,5 @@ Python program to quiz about African countries.
 
 # Enhancements
 Expand the List: Add more countries and capitals to the countries_and_capitals dictionary.
+
+User Input for Number of Questions: Allow users to input how many questions they want to answer.
