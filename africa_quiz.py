@@ -17,6 +17,10 @@ countries_and_capitals = {
     "Senegal": "Dakar",
     "Rwanda": "Kigali",
     "Burundi": "Gitega",
+    "Algeria": "Algiers",
+    "Angola": "Luanda",
+    "Benin": "Porto-Novo",
+    "Botswana": "Gaborone",
     # Add more countries and capitals as needed
 }
 
