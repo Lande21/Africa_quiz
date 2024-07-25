@@ -24,6 +24,10 @@ countries_and_capitals = {
     "Burkina Faso": "Ouagadougou",
     "Cameroon": "Yaounde",
     "Cape Verde": "Praia",
+    "Chad": "NDjamena",
+    "Comoros": "Moroni",
+    "Djibouti": "Djibouti",
+    
     # Add more countries and capitals as needed
 }
 
