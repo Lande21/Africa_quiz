@@ -15,6 +15,7 @@ countries_and_capitals = {
     "Uganda": "Kampala",
     "Tanzania": "Dodoma",
     "Senegal": "Dakar",
+    "Rwanda": "Kigali",
     # Add more countries and capitals as needed
 }
 
