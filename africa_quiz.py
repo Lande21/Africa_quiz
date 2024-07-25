@@ -21,6 +21,9 @@ countries_and_capitals = {
     "Angola": "Luanda",
     "Benin": "Porto-Novo",
     "Botswana": "Gaborone",
+    "Burkina Faso": "Ouagadougou",
+    "Cameroon": "Yaounde",
+    "Cape Verde": "Praia",
     # Add more countries and capitals as needed
 }
 
