@@ -38,6 +38,7 @@ countries_and_capitals = {
     "Kenya": "Nairobi",
     "Lesotho": "Maseru",
     "Liberia": "Monrovia",
+    "Libya": "Tripoli",
     
 
     
