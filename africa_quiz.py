@@ -29,6 +29,9 @@ countries_and_capitals = {
     "Congo": "Brazzaville",
     "Djibouti": "Djibouti",
     "Equatorial Guinea": "Malabo",
+    "Eritrea": "Asmara",
+    "Ethiopia": "Addis Ababa",
+    
 
     
     # Add more countries and capitals as needed
