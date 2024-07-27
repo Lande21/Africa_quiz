@@ -35,6 +35,9 @@ countries_and_capitals = {
     "Gambia": "Banjul",
     "Guinea": "Conakry",
     "Guinea-Bissau": "Bissau",
+    "Kenya": "Nairobi",
+    "Lesotho": "Maseru",
+    "Liberia": "Monrovia",
     
 
     
