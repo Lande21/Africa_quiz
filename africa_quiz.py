@@ -33,6 +33,8 @@ countries_and_capitals = {
     "Ethiopia": "Addis Ababa",
     "Gabon": "Libreville",
     "Gambia": "Banjul",
+    "Guinea": "Conakry",
+    "Guinea-Bissau": "Bissau",
     
 
     
