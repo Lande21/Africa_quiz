@@ -40,6 +40,8 @@ countries_and_capitals = {
     "Liberia": "Monrovia",
     "Libya": "Tripoli",
     "Madagascar": "Antananarivo",
+    "Malawi": "Lilongwe",
+    
     
 
     
