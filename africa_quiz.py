@@ -31,6 +31,7 @@ countries_and_capitals = {
     "Equatorial Guinea": "Malabo",
     "Eritrea": "Asmara",
     "Ethiopia": "Addis Ababa",
+    "Gabon": "Libreville",
     
 
     
