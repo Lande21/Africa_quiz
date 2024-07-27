@@ -32,6 +32,7 @@ countries_and_capitals = {
     "Eritrea": "Asmara",
     "Ethiopia": "Addis Ababa",
     "Gabon": "Libreville",
+    "Gambia": "Banjul",
     
 
     
