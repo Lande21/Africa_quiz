@@ -28,6 +28,8 @@ countries_and_capitals = {
     "Comoros": "Moroni",
     "Congo": "Brazzaville",
     "Djibouti": "Djibouti",
+    "Equatorial Guinea": "Malabo",
+
     
     # Add more countries and capitals as needed
 }
