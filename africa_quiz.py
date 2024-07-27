@@ -39,6 +39,7 @@ countries_and_capitals = {
     "Lesotho": "Maseru",
     "Liberia": "Monrovia",
     "Libya": "Tripoli",
+    "Madagascar": "Antananarivo",
     
 
     
