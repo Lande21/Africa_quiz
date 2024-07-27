@@ -26,6 +26,7 @@ countries_and_capitals = {
     "Cape Verde": "Praia",
     "Chad": "NDjamena",
     "Comoros": "Moroni",
+    "Congo": "Brazzaville",
     "Djibouti": "Djibouti",
     
     # Add more countries and capitals as needed
