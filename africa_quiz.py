@@ -43,7 +43,7 @@ countries_and_capitals = {
     "Malawi": "Lilongwe",
     "Mali": "Bamako",
     "Mauritania": "Nouakchott",
-    
+    "Mauritius": "Mauritius",
     
 
     
