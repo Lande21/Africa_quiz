@@ -44,6 +44,7 @@ countries_and_capitals = {
     "Mali": "Bamako",
     "Mauritania": "Nouakchott",
     "Mauritius": "Mauritius",
+    "Morocco": "Rabat",
     
 
     
