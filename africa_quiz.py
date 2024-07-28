@@ -41,7 +41,7 @@ countries_and_capitals = {
     "Libya": "Tripoli",
     "Madagascar": "Antananarivo",
     "Malawi": "Lilongwe",
-    
+    "Mali": "Bamako",
     
 
     
