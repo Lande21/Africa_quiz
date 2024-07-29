@@ -48,6 +48,7 @@ countries_and_capitals = {
     "Mozambique": "Maputo",
     "Namibia": "Windhoek",
     "Niger": "Niamey",
+    "Seychelles": "Victoria",
     
 
     
