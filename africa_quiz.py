@@ -50,6 +50,7 @@ countries_and_capitals = {
     "Niger": "Niamey",
     "Seychelles": "Victoria",
     "Sierra Leone": "Freetown",
+    "Somalia": "Mogadishu",
 
     
     # Add more countries and capitals as needed
