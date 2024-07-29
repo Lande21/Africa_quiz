@@ -54,7 +54,8 @@ countries_and_capitals = {
     "South Sudan": "Juba",
     "Sudan": "Khartoum",
     "Swaziland": "Mbabane",
-    
+    "Togo": "Lome",
+    "Tunisia": "Tunis",
 
     
     # Add more countries and capitals as needed
