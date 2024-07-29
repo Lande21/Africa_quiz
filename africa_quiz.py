@@ -12,8 +12,6 @@ countries_and_capitals = {
     "Ghana": "Accra",
     "Ethiopia": "Addis Ababa",
     "Morocco": "Rabat",
-    "Uganda": "Kampala",
-    "Tanzania": "Dodoma",
     "Senegal": "Dakar",
     "Rwanda": "Kigali",
     "Burundi": "Gitega",
@@ -54,9 +52,12 @@ countries_and_capitals = {
     "South Sudan": "Juba",
     "Sudan": "Khartoum",
     "Swaziland": "Mbabane",
+    "Tanzania": "Dodoma",
     "Togo": "Lome",
     "Tunisia": "Tunis",
-
+    "Uganda": "Kampala",
+    "Zambia": "Lusaka",
+    "Zimbabwe": "Harare",
     
     # Add more countries and capitals as needed
 }
