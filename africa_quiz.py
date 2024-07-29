@@ -51,6 +51,10 @@ countries_and_capitals = {
     "Seychelles": "Victoria",
     "Sierra Leone": "Freetown",
     "Somalia": "Mogadishu",
+    "South Sudan": "Juba",
+    "Sudan": "Khartoum",
+    "Swaziland": "Mbabane",
+    
 
     
     # Add more countries and capitals as needed
