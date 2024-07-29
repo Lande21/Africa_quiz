@@ -1,6 +1,6 @@
 #Author:Rolande Umuhoza
 #Github : Lande21
-#Date : July, 23, 2024
+#Date : July, 28, 2024
 import random
 
 # List of African countries and their capitals
@@ -45,6 +45,8 @@ countries_and_capitals = {
     "Mauritania": "Nouakchott",
     "Mauritius": "Mauritius",
     "Morocco": "Rabat",
+    "Mozambique": "Maputo",
+    
     
 
     
