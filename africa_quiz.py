@@ -46,7 +46,7 @@ countries_and_capitals = {
     "Mauritius": "Mauritius",
     "Morocco": "Rabat",
     "Mozambique": "Maputo",
-    
+    "Namibia"; "Windhoek",
     
 
     
