@@ -9,6 +9,6 @@ Python program to quiz about African countries.
 
 # Enhancements
 
-- User Input for Number of Questions: Allow users to input how many questions they want to answer.
+1. User Input for Number of Questions: Allow users to input how many questions they want to answer.
 - Levels of Difficulty: Implement different difficulty levels based on the number of options provided or the countries chosen.
 - Graphical User Interface (GUI): Use libraries like Tkinter or Pygame to create a GUI for the game.
