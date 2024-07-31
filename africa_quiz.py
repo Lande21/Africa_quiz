@@ -1,9 +1,9 @@
 #Author:Rolande Umuhoza
 #Github : Lande21
-#Date : July, 28, 2024
+#Date : July, 30, 2024
 import random
 
-# List of African countries and their capitals
+# List of all African countries and their capitals
 countries_and_capitals = {
     "Algeria": "Algiers",
     "Angola": "Luanda",
